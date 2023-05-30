@@ -1,6 +1,6 @@
-# AMGM
+# AMGM 阿格姆
 AMGM：AI Model Gene Map
-AI模型基因图谱，从token微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。
+AMGM 阿格姆-AI模型基因图谱，从token微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。
 ![amgm001k](https://github.com/ziwang-com/AMGM/assets/11691791/b5bd2b5b-8dba-4fb5-98d1-8e653cdd51fb)
 
 
@@ -8,13 +8,13 @@ AMGM-AI模型基因图谱，是行业基于首个基于token-weight权重，从�
 
 传统AI知识图谱，都是偏外部和数据，偏宏观。
 
-AMGM-AI模型基因图谱，虽然是zero-lora零参数算法的衍生升级版，但更加完整、系统版。
+AMGM-AI模型基因图谱，并非zero-lora零参数算法升级版，而是一个全新的进化版独立项目，而且更加完整、庞大、系统。
 
-参见：https://github.com/ziwang-com/zero-lora
+参见：	
+https://github.com/ziwang-com/zero-lora
+https://github.com/ziwang-com/AMGM/issues
 
-	https://github.com/ziwang-com/AMGM/issues
-
-zero-lora零参数算法，可以视为AMGM-AI模型基因图谱的一个工程项目，或者demo案例，而AMGM是一套完整、系统的AI理论、工程体系。
+zero-lora零参数算法，可以视为AMGM-阿格姆模型基因图谱的一个工程项目，或者demo案例，而AMGM是一套全新的、完整、系统的AI理论、工程体系。
 
 本质上，所有的AI模型，无论是全参数训练，还是lora优化调参，都是为了计算相关参数的weight权重。
 GPT、llm等大语言模型，基于归一化token微粒层面的研究，理论上，使人类可以首次，出微观层面，从llm模型内部，系统绘制出AI、
@@ -29,7 +29,7 @@ AMGM-AI模型基因图谱，对于AI模型，神经网络而言，具有重大�
 
 
 zw团队结合自身资源，和在AI医学、AI字库、AGI项目的工程经验，初步技术路线如下：
-1、完善zero-lora理论体系，探讨token的归一化架构体系。（进行中）
+1、完善AMGM理论体系，探讨token的归一化架构体系。（进行中）
 2、完成基于token的归一化架构体系软件和理论建设。
 3、基于归一化token，完成llm模型的微粒度知识基因图谱。
 4、基于llm- token知识基因图谱：
