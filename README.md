@@ -1,6 +1,8 @@
 # AMGM
 AMGM：AI Model Gene Map
 AI模型基因图谱，从token微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。
+![amgm001k](https://github.com/ziwang-com/AMGM/assets/11691791/b5bd2b5b-8dba-4fb5-98d1-8e653cdd51fb)
+
 
 传统AI知识图谱，都是偏外部和数据，偏宏观。
 AMGM-AI模型基因图谱，是行业基于首个基于token-weight权重，从微观角度，系统研究GPT、llm大模型，内在运作机制的项目。
