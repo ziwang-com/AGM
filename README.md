@@ -40,7 +40,9 @@ https://github.com/ziwang-com/zero-lora
 
 https://github.com/ziwang-com/AMGM/issues
 
-zero-lora零参数算法，可以视为AMGM阿格姆的一个工程项目，或者demo案例，而AMGM阿格姆是一套全新的、完整、系统的AI理论、工程体系。
+zero-lora零参数算法，可以视为AMGM阿格姆的一个工程项目，或者demo案例。
+
+AMGM阿格姆，是一套全新的、完整、系统的AI理论、工程体系。
 
 本质上，所有的AI模型，无论是全参数训练，还是lora优化调参，都是为了计算相关参数的weight权重。
 
