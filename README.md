@@ -44,6 +44,9 @@ zero-lora零参数算法，可以视为AMGM阿格姆的一个工程项目，或�
 
 本质上，所有的AI模型，无论是全参数训练，还是lora优化调参，都是为了计算相关参数的weight权重。
 
+![wt001](https://github.com/ziwang-com/AMGM/assets/11691791/0bda17be-655e-4e52-b7c0-8e0e83fb65ac)
+
+
 ### 战略意义
 
 GPT、llm等大语言模型，基于归一化token微粒层面的研究，理论上，使人类首次可以：基于单个token，从微观层面，从llm模型内部，系统绘制出AI模型的内部架构图，相当于AI生信的DNA基因图谱。
