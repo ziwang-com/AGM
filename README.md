@@ -21,7 +21,9 @@ AMGM阿格姆，目标，未来和意义是：AI模型归一化、粒子基因�
 ![amgm001k300](https://github.com/ziwang-com/AMGM/assets/11691791/5e1187ce-e359-4ee0-8d8f-c4599c2eb8fc)
 
 ps，AMGM阿格姆也是“天命之子”Son of Destiny。
+
 我们输入：a cute mascot for AI Model Gene Map
+
 SD2.1自动生成数张图片，其中最耀眼的就是这张。
 
 
