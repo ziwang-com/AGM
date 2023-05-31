@@ -34,6 +34,7 @@ AMGM阿格姆，并非zero-lora零参数算法升级版，而是一个全新的�
 
 参见：	
 https://github.com/ziwang-com/zero-lora
+
 https://github.com/ziwang-com/AMGM/issues
 
 zero-lora零参数算法，可以视为AMGM阿格姆的一个工程项目，或者demo案例，而AMGM阿格姆是一套全新的、完整、系统的AI理论、工程体系。
