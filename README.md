@@ -1,6 +1,23 @@
 # AMGM 阿格姆
-AMGM：AI Model Gene Map
-AMGM 阿格姆-AI模型基因图谱，从token微粒角度，探索AI模型，GPT\LLM大模型的内在运作机制。
+AMGM阿格姆：AI模型粒子基因图谱。
+
+英文缩写：AMGM，全称是：AI Model Gene Map by token weight particle，是AI模型，基于Token权重的内部微粒架构图谱，类似AI生信领域的DNA基因图谱。
+
+AMGM阿格姆，目标，未来和意义是：AI模型归一化、粒子基因图谱。
+
+项目网址：https://github.com/ziwang-com/AMGM
+
+***吉祥物：阿格姆。
+
+阿格姆，不象其他开源项目，特别是llm项目，都是温驯的乖宝宝。
+阿格姆，是AI领域、GPT、LLM领域，《站在门口的野蛮人》。
+阿格姆，是天生的斗士，天生的颠覆者。
+
+阿格姆，也是包容天下的好奇宝宝。
+
+阿格姆，虽然还是初生牛犊。
+但已经显示其旺盛的生命力，以及颠覆一切的决心。
+
 ![amgm001k](https://github.com/ziwang-com/AMGM/assets/11691791/b5bd2b5b-8dba-4fb5-98d1-8e653cdd51fb)
 
 
