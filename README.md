@@ -1,11 +1,12 @@
 # AMGM 阿格姆
-AMGM阿格姆：AI模型粒子基因图谱。
+AGM阿格姆：AI基因图谱模型
 
-英文缩写：AMGM，全称是：AI Model Gene Map by token weight particle，是AI模型，基于Token权重的内部微粒架构图谱，类似AI生信领域的DNA基因图谱。
+AGM阿格姆项目，全称是：AI Gene Map Model by token weight particle，基于token权重关系的AI基因图谱模型，类似AI生信领域的DNA基因图谱。
 
-AMGM阿格姆，目标，未来和意义是：AI模型归一化、粒子基因图谱。
+AGM阿格姆，目标，未来和意义是：AI模型归一化、粒子基因图谱。
 
-项目网址：https://github.com/ziwang-com/AMGM
+项目网址：https://github.com/ziwang-com/AGM
+
 
 ### 吉祥物：阿格姆。
 
@@ -19,7 +20,7 @@ AMGM阿格姆，目标，未来和意义是：AI模型归一化、粒子基因�
 阿格姆，虽然还是初生牛犊。
 但已经显示其旺盛的生命力，以及颠覆一切的决心。
 
-![amgm001k300](https://github.com/ziwang-com/AMGM/assets/11691791/5e1187ce-e359-4ee0-8d8f-c4599c2eb8fc)
+![amgm001k300](https://github.com/ziwang-com/AGM/assets/11691791/5e1187ce-e359-4ee0-8d8f-c4599c2eb8fc)
 
 ps，AMGM阿格姆也是“天命之子”Son of Destiny。
 
