@@ -1,4 +1,4 @@
-# AMGM 阿格姆
+# AGM 阿格姆
 AGM阿格姆：AI基因图谱模型
 
 AGM阿格姆项目，全称是：AI Gene Map Model by token weight particle，基于token权重关系的AI基因图谱模型，类似AI生信领域的DNA基因图谱。
