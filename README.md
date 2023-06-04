@@ -63,6 +63,8 @@ AGM阿格姆，是一套全新的、完整、系统的AI理论、工程体系。
 
 ![wt001](https://github.com/ziwang-com/AGM/assets/11691791/0bda17be-655e-4e52-b7c0-8e0e83fb65ac)
 
+![lora-w16fp_20230604084233](https://github.com/ziwang-com/AGM/assets/11691791/5b93310a-14f6-464e-acfc-3e176d60582d)
+lora-weight 权重 本质上就是fp16浮点小数
 
 ### 战略意义
 
