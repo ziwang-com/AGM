@@ -122,3 +122,4 @@ AGM阿格姆：AI基因图谱模型，无论是工程项目，还有相关的理
 
 ![image](https://github.com/ziwang-com/AMGM/assets/11691791/735d99d0-918d-424d-a5a8-9a47771218b0)
 
+![zwagi- (4)](https://github.com/ziwang-com/AGM/assets/11691791/62b90c0d-8d2b-4d5b-9655-ff3c2125c2bb)
