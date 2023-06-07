@@ -1,9 +1,12 @@
-# AGM 阿格姆
-AGM阿格姆：AI基因图谱模型
+# AGM阿格姆：AI权重粒子模型
+AI Token Weight Particle Model
+基于token权重关系的AI权重粒子图谱模型
 
-AGM阿格姆项目，全称是：AI Gene Map Model by token weight particle，基于token权重关系的AI基因图谱模型，类似AI生信领域的DNA基因图谱。
+AGM阿格姆项目，全称是：AI Token Weight Particle Model，基于AI模型token权重关系，内部微结构图谱模型。
+AGM阿格姆项目，原名：AI Gene Model, AI基因权重图谱模型，类似AI生信领域的DNA基因图谱。
+为避免与AI医疗项目混乱，更名为：AI权重粒子模型。
 
-AGM阿格姆，目标，未来和意义是：AI模型归一化、粒子基因图谱。
+AGM阿格姆，目标，未来和意义是：成为下一代AI模型标准指定的参与者。
 
 项目网址：https://github.com/ziwang-com/AGM
 
@@ -24,14 +27,14 @@ AGM阿格姆，目标，未来和意义是：AI模型归一化、粒子基因图
 
 ps，AMGM阿格姆也是“天命之子”Son of Destiny。
 
-我们输入：a cute mascot for AI Gene Map Model
+我们输入：a cute mascot for AI Token Weight Particle Model
 
 SD2.1自动生成数张图片，其中最耀眼的就是这张。
 
 
 ### 背景
 
-AGM阿格姆：AI基因图谱模型，是行业基于首个基于token-weight权重，从微观角度，系统研究GPT、llm大模型，内在运作机制的项目。
+AGM阿格姆：AI权重粒子模型，是行业基于首个基于token-weight权重，从微观角度，系统研究GPT、llm大模型，内在运作机制的项目。
 
 AGM阿格姆，并非zero-lora零训练算法升级版，而是一个全新的进化版独立项目，而且更加完整、庞大、系统。
 
@@ -87,10 +90,10 @@ zw团队结合自身资源，和在AI医学、AI字库、AGI项目的工程经�
 * 完善AGM阿格姆理论体系，探讨token的归一化架构体系。（进行中）
 * 完成基于token的归一化架构体系软件和理论建设。
 * 基于归一化token，完成llm模型的微粒度知识基因图谱。
-* 基于AGM阿格姆：AI基因图谱模型：
+* 基于AGM阿格姆：AI权重粒子模型：
  ** 完成各种主流同构、异构llm模型的跨领域研究。
  ** 完成多模态AI模型的跨领域研究。
-* 基于AGM阿格姆：AI基因图谱模型：
+* 基于AGM阿格姆：AI权重粒子模型：
   ** 融合团队logNet逻辑神经网络理论，建立新一代类似AI生信的AI模型，llm大模型研究体系。
   ** 建立系统的、微观层面，AI模型的精密研究体系，类似基于DNA基因图谱的现代精密医学体系：AI制药、基因靶标研究等。
 
@@ -110,7 +113,7 @@ zw团队结合自身资源，和在AI医学、AI字库、AGI项目的工程经�
 
 ### 联系合作
 
-AGM阿格姆：AI基因图谱模型，无论是工程项目，还有相关的理论体系，有大量的工作，需要大家补充完善。
+AGM阿格姆：AI权重粒子模型，无论是工程项目，还有相关的理论体系，有大量的工作，需要大家补充完善。
 
 想刷高分paper，以及在GPT时代，寻找市场机会的llm创业团队，尽管放马过来。
 
